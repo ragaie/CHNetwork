@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.682054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.68319"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.68556"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CHNetwork.CHNetwork.requestWithJsonResponse(requestWay: CHNetwork.HTTPWay, urlString: Swift.String, Loader: Swift.Bool, result: (__ObjC.NSDictionary, __ObjC.URLResponse, Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "CHNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ragaie/Desktop/CHNetwork/CHNetwork/Library%20Files/netwrok/CHNetwork.swift"
+                  timestampString = "559739914.800944"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "730">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CHNetwork.CHNetwork.requestWithJsonResponse(requestWay: CHNetwork.HTTPWay, urlString: Swift.String, Loader: Swift.Bool, result: (__ObjC.NSDictionary, __ObjC.URLResponse, Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "CHNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ragaie/Desktop/CHNetwork/CHNetwork/Library%20Files/netwrok/CHNetwork.swift"
+                  timestampString = "559739914.805418"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.6867189"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.687634"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.6885411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.6898789"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.691047"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.692004"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CHNetwork.CHNetwork.requestWithJsonResponse(requestWay: CHNetwork.HTTPWay, urlString: Swift.String, Loader: Swift.Bool, result: (__ObjC.NSDictionary, __ObjC.URLResponse, Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "CHNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ragaie/Desktop/CHNetwork/CHNetwork/Library%20Files/netwrok/CHNetwork.swift"
+                  timestampString = "559739914.860036"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1127">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CHNetwork.CHNetwork.requestWithJsonResponse(requestWay: CHNetwork.HTTPWay, urlString: Swift.String, Loader: Swift.Bool, result: (__ObjC.NSDictionary, __ObjC.URLResponse, Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "CHNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ragaie/Desktop/CHNetwork/CHNetwork/Library%20Files/netwrok/CHNetwork.swift"
+                  timestampString = "559739914.86717"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1606">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHNetwork/Library Files/netwrok/CHNetwork.swift"
+            timestampString = "559739998.693092"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "requestJson(requestWay:bodyParameter:urlString:Loader:result:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CHNetwork.CHNetwork.requestWithJsonResponse(requestWay: CHNetwork.HTTPWay, urlString: Swift.String, Loader: Swift.Bool, result: (__ObjC.NSDictionary, __ObjC.URLResponse, Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "CHNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ragaie/Desktop/CHNetwork/CHNetwork/Library%20Files/netwrok/CHNetwork.swift"
+                  timestampString = "559739914.877515"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1559">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CHNetwork.CHNetwork.requestWithJsonResponse(requestWay: CHNetwork.HTTPWay, urlString: Swift.String, Loader: Swift.Bool, result: (__ObjC.NSDictionary, __ObjC.URLResponse, Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "CHNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ragaie/Desktop/CHNetwork/CHNetwork/Library%20Files/netwrok/CHNetwork.swift"
+                  timestampString = "559739914.882507"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "593">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
